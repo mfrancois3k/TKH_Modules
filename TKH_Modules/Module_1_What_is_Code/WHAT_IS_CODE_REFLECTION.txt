@@ -1,0 +1,54 @@
+what is a computer really doing whenever you type a letter on a
+keyboard?
+
+The keyboard is a mechanical device that has keys that send a scancode. The keys when pressed generate a code or an electric signal which is given to the CPU via the wire.
+
+The CPU either interprets this itself in BIOS (before the OS loads) or if the computer is on, then it sends the impulse to the OS(Operating System), this translates the signal
+using the program for the keyboard to know which drivers your keyboard is using. This signal gets translated into processed in ASCII codes which are letters generally stored for a key that is pressed. Once this is passed to the program, it will display what it translates into the format of the monitor.  
+After that process, it finally shows in the monitor the letter that is pressed on the screen. 
+
+In your own words, how do computers use input and output to create experiences? 
+
+The computer uses inputs that were received and they use this data to perform tasks to get the desired output. The user submits input data to the computer
+to get processed information. This process of input and output is a coding fundamental that is applied to building software that ranges from small devices, to our modern-day systems for servers that capture and store data. 
+
+Explain why software products are essentially “infinitely reproducible nothings.”?
+
+Software products are essential “infinitely reproducible nothings.” is because expectations around software have changed over the
+years and it made it easier for developers to write software for the vast commercial territory. This in turn lowers the value of basic software and makes it 
+free for consumers to get.
+
+Explain “algorithms” in your own words?
+
+Algorithms are instructions for the computer to execute in solving a problem. 
+It is based on conducting a sequence of specified steps to completing the desired output.
+
+Explain the "DRY" principle?
+
+'D.R.Y' is an acronym that stands for "don't repeat yourself,". DRY is a basic principle of software development
+ aimed at reducing repetition of information
+
+In your own words, what is object-oriented programming?
+
+An object-oriented program is that uses concepts like classes and objects to structure your code. It is used to structure a
+software program into simple, reusable pieces of code blueprints (usually called classes), which are used to create 
+individual instances of objects. 
+
+In your own words explain data and how it relates to code.?
+ Data is the information that is put in the input or the output of an application. This relates to code because code gives
+a set of instructions on how to configure the data to display the information to the user.
+
+What is a framework?
+A framework is using the prewritten template of code for generic functionality. This is useful
+to change the template to customize it to what the developer wants to do.
+
+What is debugging?
+Debugging is finding the source of the issue of the code. This can be done by running tools in the console on 
+what is causing the issue for the code that's running?
+
+why do you want to learn how to code?
+I want to learn to code because i see it changing my life for the better because of its job opportinitys and
+freedoom of expression. Being able to think up an idea too problem and then using code to solving it would be 
+satifying. This is great because from start to finish I would be able to bring things to life by coding. Very few people have that skill and knowing that I can get be compensated for doing something that I love is like having the best of both worlds.
+Thatis why i still want to learn how to code.
+
