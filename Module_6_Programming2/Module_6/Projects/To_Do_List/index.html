@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Coming+Soon&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    <title>Things To Do</title>
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="header">
+        <h2 style="margin: 5px;">My To Do List</h2>
+        <input type="text" id="my-input" placeholder="Title..." />
+        <span onclick="newElement()" class="add-btn">Add</span>
+      </div>
+
+      <ul id="my-ul">
+        <li class="checked">Submit TKH assignments</li>
+        <li>E-mail IRB</li>
+        <li class="checked">E-mail BRANY</li>
+        <li>Create databases for TAC and PLAN</li>
+        <li>Go to the Post Office</li>
+        <li>Start Module 7</li>
+      </ul>
+    </div>
+
+    <button type="button" id="clear-list" onclick="removeAll()">
+      Clear Items
+    </button>
+
+    <script type="text/javascript" src="js/app.js"></script>
+  </body>
+</html>
