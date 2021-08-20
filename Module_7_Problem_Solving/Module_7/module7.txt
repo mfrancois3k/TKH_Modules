@@ -1,0 +1,146 @@
+Michael Francois 
+
+			Module 7 Design Thinking 
+
+Problem
+
+What is the problem you
+are looking to solve?
+
+The usa there many states suuch as the bronx that is home to four of the city's five lowest-performing high school districts.
+These are the districts: Crotona Park East and the third district
+Morrisania is a fictional character created by Morrison (61.4 percent high school graduation rate),
+
+Mount Eden, Concourse, and Highbridge are located in District 4 of the city.
+
+District 5 - Morris (63.4 percent graduation rate)
+
+Heights, Fordham South, and Mount Hope (60.9%) are among the highest-ranking neighborhoods in New York City.
+
+school. 
+
+These districts face challenges as a result of socioeconomic disparities. Covid-19 possesses
+
+Unfortunately, this has added to the difficulties that most people face.
+
+Students of color, both Latino and Black, are represented.  While many students have been successful,
+
+smoothly switch to remote greater disparity with lower income students. Despite the fact that the pandemic has had an impact on education, this cause a major void for 
+The most vulnerable are students in school. Teachers cant do  the one-on-one assistance they require before leaving
+
+Children will lag behind in critical subjects on math, english and science.
+
+
+Existing alternatives
+
+Parents are an excellent alternative, but not every parent is capable of filling their children's educational gaps. In many of these instances. Some parents have multiple children and 
+are unable to devote enough time to each of them in order to properly educate them.
+
+Solution 
+
+Just2Teach is a software application. It offers a weekly free 30 minute tutoring block in three different subjects (English, math, and science) for children in grades K-8. Tutors will volunteer their time in 30-minute increments so that they can receive credit for any school they attend. This will provide a consistent 
+flow of staff needed to educate the students while also benefiting the tutor.
+
+Key metrics 
+
+We would track how frequently 30 minute slots are reserved to see if the application is working.
+ We would also conduct brief surveys at the beginning and end of each session to gauge student
+ satisfaction and comprehension. There will also be dedicated staff to train volunteers for the 
+subject's teaching roles. We'd also send a one-time survey to parents following tutoring sessions
+asking about their perspective on their child's satisfaction and
+understanding.  
+
+Unique Value Proposition 
+
+Although different tutoring methods have been
+developed recently to aid children experiencing
+difficulties during remote learning, this
+application is different in that its target
+demographic is very specific. Targeting on the
+neediest districts in diffirent states like the the Bronx. 
+The another proposion that make it different is using volunteers
+as teechers. This is new because it hard to find and pay for quality teachers so in this 
+application this is great beacause were targeting students who needs credits for teaching licences
+exams that truly want to be teachers but needs experience and hours for the courses. This
+would makes the process more streamline for the application not only more
+manageable to developers, but also more
+resourceful to the target children and their
+families. This application is designed to help
+families that do not have the income to pay for
+expensive tutoring but also for future teacher in training.
+
+High level Concept
+just2teach =  FaceTime for future teaching professional tutoring serivice 
+
+Unfair advantage 
+
+The first of it kind to a have a platform to gear new incoming teachers to help low income students in neeed
+for attention. Also if we get ceritified by the the board of education there will be an alternative for 
+incoming teachers to gain credits for there desire subject while helping steudents in need. Having this advantage c
+an help not onlywith the designing of the application but also with
+the structure of the tutoring sessions.
+
+Channels
+
+This app would be free and accessible via a web browser or a mobile device. Although viewing on a desktop or laptop would be more convenient, 
+I understand that many families do not have these types of resources.
+
+
+Customer segments
+
+first nyc publice school chrisldrend in grades k-8 in districts 3,4,5 and 6;
+
+once we see the application is working for nyc we would do nj and connecticut
+
+after will do same process of the rest of the the states. 
+
+
+Early Adopters 
+Elementary and middle school students in Districts 3,4,5, and 6 who have a NYC school ID, are low-income, 
+and are Latino or Black.
+
+Cost Structure 
+
+Tutors will volunteer their time between the hours of 5 and 9 pm. Funding will not be necessary for volunteers.
+Funding will only be necessary for the development of the application.
+
+Revenue Stream 
+ach user will automatically be alloted a free one 30-minute block per week. Each 30 minute block after that will be $5, If a student does not have
+money to pay, they can wait 7 days in order to use another free 30-min block. Eventually we will ask for grants form the board of education for funding.
+
+
+
+Just2Teach
+Module 7
+Description:
+Just2Teach is an education resource  for future teaching professional that tutor school children in grades
+ K-8th grade who reside in school districts. The application will be available on a web browser and also on mobile devices.
+A user will be able to create an account using and adult’s (18+ years old) email, NYC school ID,
+and choosing a school from a school drop down list that lists only schools in Districts 3, 4, 5, and 6
+of the will be ther first distric which is the Bronx.
+A short  instructional application called intro.js will show the user how to use the application for onboarding and using the 
+the application so the end user could o reserve a 30 min slot.
+Users will be able to create different profiles for each child they have. In the profile they will need
+to provide the following for each child:
+• NYC school ID
+• School district and school name
+• Name
+• Grade
+• Subjects they need help in (Math, English, or Science
+Every profile will receive 30 minutes of free tutoring per week. If the 30 minutes are not used within 7 days, they will not be carried over to the following week. Each child is only entitled to 30 minutes of free tutoring per week. Parents will be charged $5 for every additional 30 minutes.
+A monthly calendar will show the tutors who are available and the subjects taught for the month. Both parents and students will be able to participate.
+ The email confirmation will include a Zoom
+link. Users will be notified of session the night before the session and one hour before the session.
+Users will have the option to reserve more than 30 minutes; if they do, a payment by credit/debit
+card, Apple Pay, or Pay Pal must be provided.
+Parent must open the Zoom link and greet tutor. Tutor will send a link with a quick three-question
+survey that student must complete before session. Parent must be present in room when child is in
+the session with tutor. 
+2
+At the end of the session, tutor will send a second link with another quick three question survey
+that student must complete before ending the session.
+Volunteer tutors will only be added to TOOTS through reliable networking. Tutors will go through
+a background check before scheduling their first session.
+Two days after the session, parents will receive a link to a short survey on their perspective of their
+
+ 
